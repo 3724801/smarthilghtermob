@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Your local changes
+(your local changes)
 =======
-Changes from the remote repository
->>>>>>> origin/main
+(changes from the remote repository)
+>>>>>>> (commit hash)
