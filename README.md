@@ -1,2 +1,5 @@
-# smarthilghtermob
-my mobile app
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> origin/main
